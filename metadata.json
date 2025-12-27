@@ -1,0 +1,7 @@
+{
+  "name": "QuickMadu - Multiplayer Fast-Thinking Game",
+  "description": "A real-time multiplayer word game where players compete to find words for categories starting with a specific letter, judged by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
